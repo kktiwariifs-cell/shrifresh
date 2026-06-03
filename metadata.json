@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Dairy Products E-Commerce Platform",
+  "description": "Comprehensive multi-stakeholder dairy products e-commerce platform featuring customer ordering, milk subscriptions, cold chain temperature alarms, wallet deposits, and advanced AI demand forecasting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
